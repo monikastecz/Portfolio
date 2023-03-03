@@ -28,4 +28,6 @@ My name is Monika Stecz. I have started work as Manual Tester since 2021. I deve
 * **https://dev-tester.com/**
 * **https://medium.com/testing-land**
 
+## Bug report
+* **https://docs.google.com/document/d/1v4mY5A2FL7IsBvsNa_Magv1lTYLFD943ZQEJZVfgEz4/edit?usp=sharing**
 
